@@ -27,7 +27,7 @@ def get_train_test_transforms():
 
 def get_train_test_loader(train_data, test_data):
 
-    batch_size = 128
+    batch_size = 512
 
     kwargs = {'batch_size': batch_size, 'shuffle': True, 'num_workers': 2, 'pin_memory': True}
 
