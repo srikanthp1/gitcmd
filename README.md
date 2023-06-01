@@ -1,15 +1,27 @@
-# info
+# About
+
+we are training our model on MNIST dataset. 
+
+# Info
 
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-370/)
 
 Supports PyTorch
 
+Uses matplotlib for ploting accuracy.
+
+# requirements
+
+```
+!pip install matplotlib
+```
+
 # Usage
 
 ```
-git clone repo
+git clone https://github.com/srikanthp1/era5.git
 ```
- - run each cell one by one to train and test
+ - run each cell one by one to train model and test accuracy
 
 # Model details
 
