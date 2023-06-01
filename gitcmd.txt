@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "something testing"
+git remote add origin https://github.com/srikanthp1/gitcmd.git
+git push -u origin main
